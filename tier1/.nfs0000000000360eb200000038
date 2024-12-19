@@ -1,0 +1,18 @@
+Dec 15, 2024 3:57:38 PM MITMServer main
+INFO: MITM Server started and listening on port 8100
+Dec 15, 2024 3:57:40 PM MITMServer main
+INFO: New client connected
+Dec 15, 2024 3:57:44 PM MITMServer lambda$handleClient$1
+INFO: MITM Received from client: pass:pass
+Dec 15, 2024 3:57:44 PM MITMServer lambda$handleClient$2
+INFO: MITM Received from DestServer: Login failed
+Dec 15, 2024 3:57:44 PM MITMServer handleClient
+INFO: Client connection closed.
+Dec 15, 2024 4:14:59 PM MITMServer main
+INFO: MITM Server started and listening on port 8900
+Dec 15, 2024 4:15:03 PM MITMServer main
+INFO: New client connected
+Dec 15, 2024 4:15:07 PM MITMServer lambda$handleClient$1
+INFO: MITM Received from client: alice:password123
+Dec 15, 2024 4:15:07 PM MITMServer lambda$handleClient$2
+INFO: MITM Received from DestServer: Login successful
